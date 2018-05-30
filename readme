@@ -1,0 +1,37 @@
+Name: Keith Djouba
+
+Student ID: 02508734
+
+Assignment: Project4
+
+
+
+Bugs:	1) The Quantities of the ingredients do not decrease when after a transaction
+
+
+	2) There is no update when adding the same ingredient in the table
+
+
+
+	3) Adding to NEGATIVE number of ingredients is NOT allowed on any pages.
+
+
+
+
+Approach: 	1) Store the login information.
+
+		2) Create connection and close the connection every single page.
+
+    3) Creating both ingredient and recipe tables
+
+		4) Writting queries for adding new recipes
+
+		5) add queries to select recipe name, ingredients, quantiies from the table depending on the recipe name.
+
+		6) list recipes and shows error for unrecorded recipe.
+
+		7) add queries and insert ingredient and quanity to inventaryTable.
+
+		8) Adding repeated ingredients to the same recipe will not be allowed.
+
+		9) update Both tables. get ingredient and quantities depending on recipeName.
